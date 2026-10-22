@@ -59,8 +59,8 @@ To develop an interactive dashboard that presents sales metrics and helps users 
 - `README.md` — project overview
 
 ## Project Links
-- **Tableau Public:** [Add your published dashboard URL here](https://public.tableau.com/app/profile/ambi.r/viz/SalesPerformanceDashboard_17926803708690/SalesPerformanceDashboard2).
-- **GitHub Repository:** [Add your repository URL here](https://github.com/thefavmaverick-coder/tableau-sales-performance-dashboard.git).
+- **Tableau Public:** [published dashboard URL here](https://public.tableau.com/app/profile/ambi.r/viz/SalesPerformanceDashboard_17926803708690/SalesPerformanceDashboard2).
+- **GitHub Repository:** [Github repository URL here](https://github.com/thefavmaverick-coder/tableau-sales-performance-dashboard.git).
 
 ## Summary
 
